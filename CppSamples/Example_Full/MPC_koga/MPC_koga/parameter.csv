@@ -1,0 +1,4 @@
+N,Q_y_lat,Sf_y_lat,Q_theta_lat,Sf_theta_lat,R_lat,S_lat,Q_y_dot_lat,Q_theta_dot_lat,Sf_y_dot_lat,Sf_theta_dot_lat,R_lon,Q_lon,Sf_lon,alpha,K,L,T,T1,T2,M,Iz,l_f,l_r,C_f,C_r,course_length,v_input,v_const,period,steer_const,Kp_PID,Ki_PID,Kd_PID,theta_e,steerrate_limit,acceleration_limit
+20,10,10,1,1,1000,0,0.01,0.01,10,0.1,1,100,10,2,1,0,1,0.1,0.3,1370,2870,1.11,2.66,60000,30000,2453.644716,16.66666667,16.66666667,0.01,0,-0.01,-0.02,-0.01,30,0.4,2
+,,,,,,,,,,,,,,,,,,,,,,,,100000,70000,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,60000,30000,,,,,,,,,,,

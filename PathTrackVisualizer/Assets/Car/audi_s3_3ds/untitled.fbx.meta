@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 616e68e4c3183af47b6550eb1ff10ad9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: $$$DUMMY.S3_LICENSE
+    100002: Camera
+    100004: Lamp
+    100006: sub01
+    100008: sub01_MeshPart0
+    100010: sub01_MeshPart1
+    100012: sub02
+    100014: //RootNode
+    400000: $$$DUMMY.S3_LICENSE
+    400002: Camera
+    400004: Lamp
+    400006: sub01
+    400008: sub01_MeshPart0
+    400010: sub01_MeshPart1
+    400012: sub02
+    400014: //RootNode
+    2300000: sub01_MeshPart0
+    2300002: sub01_MeshPart1
+    2300004: sub02
+    3300000: sub01_MeshPart0
+    3300002: sub01_MeshPart1
+    3300004: sub02
+    4300000: sub02
+    4300002: sub01_MeshPart0
+    4300004: sub01_MeshPart1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 42cb37cc3e6801e46a76849232048b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: a0db7ac4dd631214aad3de603b3a6b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clignotant
+    second: {fileID: 2100000, guid: 894709557a8c56b468a166e8032c088e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dessous
+    second: {fileID: 2100000, guid: e577bd375e3264f479f39c2a84f5fca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Disk
+    second: {fileID: 2100000, guid: 4076db348046fa04dbd101e7b8967573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feux_chrome
+    second: {fileID: 2100000, guid: 867d2ebac6d09384288867533def4681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feux_d
+    second: {fileID: 2100000, guid: 36357154e9e6d5a4e965622295a6cfc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feux_g
+    second: {fileID: 2100000, guid: 4a2e5db4364db7b40acb8ed7915ad481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feux_stop
+    second: {fileID: 2100000, guid: 2b9c79a5c8cb0734ead9160a70844265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grille
+    second: {fileID: 2100000, guid: b38baca851c83054eace1ff48feb32b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interieur
+    second: {fileID: 2100000, guid: 8148e1393f60ae54eb9d95a1a10c4f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jante
+    second: {fileID: 2100000, guid: 4339161c8889b124785e1f397c407e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jante_logo_1
+    second: {fileID: 2100000, guid: 7612d8feca2d1174faa18b933d612ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jante_logo_2
+    second: {fileID: 2100000, guid: 7612d8feca2d1174faa18b933d612ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo_red
+    second: {fileID: 2100000, guid: 9e7b8ff2c3d2b8941af40b692b7a98b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_alu
+    second: {fileID: 2100000, guid: 36e8c08742ce6434682df3bedb83c72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miroir
+    second: {fileID: 2100000, guid: 823e43fa27867b344aa80a4322d36c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Partie_noir
+    second: {fileID: 2100000, guid: 6aed8f6bb35183b439efec103992f054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phare
+    second: {fileID: 2100000, guid: 2598bf0c1dd557f40992a147295cf9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phare_optique
+    second: {fileID: 2100000, guid: c50d0f4367db1b24c84273a6b11bec47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phare_vitre
+    second: {fileID: 2100000, guid: 6ac88e94fd2279c4fa660e8c2d1db7e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaque_ar
+    second: {fileID: 2100000, guid: f84c741baa3bf01439683b9c7d6ffadc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaque_av
+    second: {fileID: 2100000, guid: aaf71e4c992c0e34e91032506d0fbfd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastique_noir
+    second: {fileID: 2100000, guid: 469e8237d119e5944b444f8ae0aaae5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pneu
+    second: {fileID: 2100000, guid: ebe2f046fd2e5cd4781fe359ade3e76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Siege
+    second: {fileID: 2100000, guid: d7d97664c2484924da21138ec3f1dfdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vitre
+    second: {fileID: 2100000, guid: 9e594792458dae243953363ac3e03ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vitre_noir
+    second: {fileID: 2100000, guid: 0aa24402d26e1ce4283b98dfbc22ab9b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
